@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradingBot", "TradingBot\TradingBot.csproj", "{8A480880-1807-41BA-878D-FA899A2C9E57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGrabber", "DataGrabber\DataGrabber.csproj", "{30C4667C-99B3-4DBC-B2A8-340EA3E045E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8A480880-1807-41BA-878D-FA899A2C9E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A480880-1807-41BA-878D-FA899A2C9E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A480880-1807-41BA-878D-FA899A2C9E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C4667C-99B3-4DBC-B2A8-340EA3E045E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C4667C-99B3-4DBC-B2A8-340EA3E045E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C4667C-99B3-4DBC-B2A8-340EA3E045E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C4667C-99B3-4DBC-B2A8-340EA3E045E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
